@@ -1,4 +1,4 @@
-#Gridiron
+# Gridiron
 
 ![Gridiron in white with After-School 1992 splatter colors. Sat atop a spiral notebook with four colorful markers around it, A lavender background behind everything else.](https://i.imgur.com/8u0ILIm.jpg)
 
