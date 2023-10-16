@@ -9,6 +9,7 @@
 ## Hardware
 
 **Case Screws:** [4x m2 pan/buttonhead 6mm](https://www.mcmaster.com/92095A453/)
+
 **Plate Screws:** [4x m2 pan/buttonhead 6mm](https://www.mcmaster.com/92095A453/)
 
 ## ***DISCLAIMER***
